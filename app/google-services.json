@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695526651099",
+    "firebase_url": "https://monetizationcodelab-39506.firebaseio.com",
+    "project_id": "monetizationcodelab-39506",
+    "storage_bucket": "monetizationcodelab-39506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695526651099:android:f08eef6716626b66",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.monetizationcodelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695526651099-u9d6h45rkckkcttiesgfc0i3ib3l381d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw3KlNL0E2ZI6OggppnIJczTEtNCZDXCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
